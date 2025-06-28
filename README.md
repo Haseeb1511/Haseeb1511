@@ -22,7 +22,7 @@
 ### 🚀 About Me
 
 - 🎓 AI/ML Engineer  
-- 🔭 Currently working on **LangChain and NLP** projects  
+- 🔭 Currently working on **LangChain and AI Agents** related projects  
 - 🌱 Actively learning **Transformers, RAG, and LLM Fine-Tuning**  
 - 👨‍💻 My portfolio: [haseebmanzoor.netlify.app](https://haseebmanzoor.netlify.app)  
 - 📫 Reach me at **iamhaseebmanzoor@gmail.com**
