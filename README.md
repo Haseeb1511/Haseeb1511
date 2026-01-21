@@ -24,7 +24,7 @@
 - 🤖 Passionate **AI & Machine Learning Engineer**  
 - 🔭 Currently working on **LLM Fine-Tuning, LangChain, and AI Agents**  
 - 🌱 Actively learning **Transformers, RAG Systems, and MLOps**  
-- 💻 Portfolio: [haseebmanzoor.netlify.app](https://haseebmanzoor.netlify.app)  
+- 💻 Portfolio: [haseebmanzoor.netlify.app](https://portfolio-haseeb-manzoor.netlify.app/)  
 - 📫 Reach me at **iamhaseebmanzoor@gmail.com**
 
 ---
